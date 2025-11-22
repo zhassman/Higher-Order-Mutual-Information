@@ -47,4 +47,6 @@ def estimate_mi(
         - sum(np.mean(digamma(n_x_j)) for n_x_j in n_x_j_list)
 
     )
-    return max(0, mutual_information)
+
+    return mutual_information
+    # return max(0, mutual_information)
