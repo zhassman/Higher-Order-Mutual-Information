@@ -1,6 +1,6 @@
 import numpy as np
 import pytest
-from src import estimate_mi
+from src.core import estimate_mi
 
 
 NUM_SAMPLES = 100_000

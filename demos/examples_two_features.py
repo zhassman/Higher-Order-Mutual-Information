@@ -1,5 +1,5 @@
 import numpy as np
-from src import estimate_mi
+from src.core import estimate_mi
 
 
 def run_two_variable_tests(k_neighbors: int):
