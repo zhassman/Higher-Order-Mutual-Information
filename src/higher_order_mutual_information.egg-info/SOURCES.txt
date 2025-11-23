@@ -1,9 +1,0 @@
-README.md
-pyproject.toml
-src/core.py
-src/higher_order_mutual_information.egg-info/PKG-INFO
-src/higher_order_mutual_information.egg-info/SOURCES.txt
-src/higher_order_mutual_information.egg-info/dependency_links.txt
-src/higher_order_mutual_information.egg-info/requires.txt
-src/higher_order_mutual_information.egg-info/top_level.txt
-tests/test_gaussian.py
